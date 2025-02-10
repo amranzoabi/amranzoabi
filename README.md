@@ -3,13 +3,11 @@
 
 - 🌱 I’m currently learning **Data Mining**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amranzoabi](https://github.com/amranzoabi)
-
 - 💬 Ask me about **C, Java, Data Structures, Algorithms and Operating Systems**
 
 - 📫 How to reach me **amran.zoabi.se@gmail.com**
 
-- 📄 You can read my CV here [https://docs.google.com/document/d/1AzKJbiHZdCHmJ5QEa5yKrePrxi3s5OiV/edit?usp=sharing&ouid=111050688536602160386&rtpof=true&sd=true](https://docs.google.com/document/d/1AzKJbiHZdCHmJ5QEa5yKrePrxi3s5OiV/edit?usp=sharing&ouid=111050688536602160386&rtpof=true&sd=true)
+- 📄 You can read my CV <a href="https://drive.google.com/file/d/1cxXtLE0f6rZ-Uj2uYRS0vMPgSZdVS0Eo/view?usp=sharing">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
