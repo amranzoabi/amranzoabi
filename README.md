@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amran Zoabi</h1>
-<h3 align="center">A passionate Software Engineering student looking to breakthrough the tech industry</h3>
+<h3 align="center">A passionate Software Engineering graduate looking for his first position in the tech industry</h3>
 
 - 🌱 I’m currently learning **Data Mining**
 
@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **amran.zoabi.se@gmail.com**
 
-- 📄 You can read my CV <a href="https://drive.google.com/file/d/1cxXtLE0f6rZ-Uj2uYRS0vMPgSZdVS0Eo/view?usp=sharing">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
